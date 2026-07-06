@@ -119,6 +119,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0076-minimum-window-substring) |
+| [0434-number-of-segments-in-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0434-number-of-segments-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
