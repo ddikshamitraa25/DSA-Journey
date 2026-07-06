@@ -123,4 +123,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0076-minimum-window-substring) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
