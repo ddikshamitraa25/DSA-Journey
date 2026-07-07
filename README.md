@@ -103,6 +103,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
@@ -142,4 +143,9 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
