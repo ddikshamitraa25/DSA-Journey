@@ -120,10 +120,12 @@ Happy Coding! 🚀
 | ------- |
 | [0036-valid-sudoku](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0076-minimum-window-substring) |
+| [0290-word-pattern](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0076-minimum-window-substring) |
+| [0290-word-pattern](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0434-number-of-segments-in-a-string) |
 ## Sliding Window
