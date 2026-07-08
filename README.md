@@ -106,11 +106,13 @@ Happy Coding! 🚀
 | [0054-spiral-matrix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0289-game-of-life](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0289-game-of-life) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +134,7 @@ Happy Coding! 🚀
 | [0345-reverse-vowels-of-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0434-number-of-segments-in-a-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
