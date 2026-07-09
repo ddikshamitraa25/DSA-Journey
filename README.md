@@ -150,6 +150,7 @@ Happy Coding! 🚀
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Happy Coding! 🚀
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -180,4 +182,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
