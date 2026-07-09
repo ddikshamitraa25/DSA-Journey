@@ -104,6 +104,7 @@ Happy Coding! 🚀
 | ------- |
 | [0036-valid-sudoku](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0057-insert-interval) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0228-summary-ranges) |
