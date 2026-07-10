@@ -150,18 +150,21 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
@@ -184,8 +187,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
