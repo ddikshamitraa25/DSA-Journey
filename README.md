@@ -155,6 +155,7 @@ Happy Coding! 🚀
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -163,6 +164,7 @@ Happy Coding! 🚀
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -171,6 +173,7 @@ Happy Coding! 🚀
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -197,6 +200,7 @@ Happy Coding! 🚀
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
