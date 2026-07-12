@@ -102,6 +102,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0057-insert-interval) |
@@ -134,6 +135,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0205-isomorphic-strings) |
@@ -223,4 +225,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
