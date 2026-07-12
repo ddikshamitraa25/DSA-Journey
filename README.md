@@ -161,6 +161,7 @@ Happy Coding! 🚀
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -171,6 +172,7 @@ Happy Coding! 🚀
 | [0129-sum-root-to-leaf-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -182,6 +184,7 @@ Happy Coding! 🚀
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -205,12 +208,14 @@ Happy Coding! 🚀
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
