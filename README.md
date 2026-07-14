@@ -147,6 +147,7 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0205-isomorphic-strings) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0290-word-pattern](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0383-ransom-note) |
@@ -184,6 +185,7 @@ Happy Coding! 🚀
 | [0129-sum-root-to-leaf-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -264,6 +266,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Union-Find
 |  |
 | ------- |
@@ -276,4 +279,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0210-course-schedule-ii) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
