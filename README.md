@@ -166,6 +166,7 @@ Happy Coding! 🚀
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
@@ -196,6 +197,7 @@ Happy Coding! 🚀
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
@@ -240,6 +242,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0450-delete-node-in-a-bst) |
@@ -249,6 +252,7 @@ Happy Coding! 🚀
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Bit Manipulation
 |  |
@@ -283,4 +287,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0211-design-add-and-search-words-data-structure) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
