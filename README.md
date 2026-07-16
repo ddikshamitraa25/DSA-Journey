@@ -157,6 +157,7 @@ Happy Coding! 🚀
 | [0434-number-of-segments-in-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0434-number-of-segments-in-a-string) |
 | [0796-rotate-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
@@ -296,4 +297,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
