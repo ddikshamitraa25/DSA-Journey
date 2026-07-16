@@ -112,6 +112,7 @@ Happy Coding! 🚀
 | [0228-summary-ranges](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0289-game-of-life) |
 | [0909-snakes-and-ladders](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0909-snakes-and-ladders) |
+| [0997-find-the-town-judge](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
@@ -137,6 +138,7 @@ Happy Coding! 🚀
 | [0290-word-pattern](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0433-minimum-genetic-mutation) |
+| [0997-find-the-town-judge](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -281,6 +283,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0210-course-schedule-ii) |
+| [0997-find-the-town-judge](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
