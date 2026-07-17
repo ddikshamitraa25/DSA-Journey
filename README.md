@@ -285,6 +285,7 @@ Happy Coding! 🚀
 | ------- |
 | [0210-course-schedule-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0210-course-schedule-ii) |
 | [0997-find-the-town-judge](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
 | ------- |
