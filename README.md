@@ -263,6 +263,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Stack
 |  |
 | ------- |
@@ -301,5 +302,6 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
