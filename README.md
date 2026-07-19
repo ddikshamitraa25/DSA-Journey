@@ -113,6 +113,7 @@ Happy Coding! 🚀
 | [0289-game-of-life](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0289-game-of-life) |
 | [0909-snakes-and-ladders](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0909-snakes-and-ladders) |
 | [0997-find-the-town-judge](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0997-find-the-town-judge) |
+| [1250-check-if-it-is-a-good-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1250-check-if-it-is-a-good-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
@@ -309,4 +310,9 @@ Happy Coding! 🚀
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1250-check-if-it-is-a-good-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1250-check-if-it-is-a-good-array) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
