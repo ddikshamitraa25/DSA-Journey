@@ -147,6 +147,7 @@ Happy Coding! 🚀
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0127-word-ladder) |
@@ -231,6 +232,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0289-game-of-life) |
 ## Counting
 |  |
@@ -267,6 +269,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
 | [0461-hamming-distance](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0461-hamming-distance) |
@@ -310,6 +313,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1250-check-if-it-is-a-good-array) |
