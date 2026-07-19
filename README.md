@@ -111,6 +111,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0289-game-of-life) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0909-snakes-and-ladders](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0909-snakes-and-ladders) |
 | [0997-find-the-town-judge](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1250-check-if-it-is-a-good-array) |
@@ -316,4 +317,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1250-check-if-it-is-a-good-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
