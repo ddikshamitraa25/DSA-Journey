@@ -108,6 +108,7 @@ Happy Coding! 🚀
 | [0057-insert-interval](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0289-game-of-life) |
@@ -314,15 +315,21 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1250-check-if-it-is-a-good-array) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0204-count-primes) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1250-check-if-it-is-a-good-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
