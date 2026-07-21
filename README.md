@@ -130,6 +130,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
 ## Hash Table
@@ -324,6 +325,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
