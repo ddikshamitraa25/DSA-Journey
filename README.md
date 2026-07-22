@@ -109,6 +109,7 @@ Happy Coding! 🚀
 | [0130-surrounded-regions](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
@@ -139,6 +140,7 @@ Happy Coding! 🚀
 | [0036-valid-sudoku](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0127-word-ladder) |
+| [0149-max-points-on-a-line](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0290-word-pattern) |
@@ -326,6 +328,7 @@ Happy Coding! 🚀
 | ------- |
 | [0067-add-binary](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -347,4 +350,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1328-break-a-palindrome](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1328-break-a-palindrome) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
