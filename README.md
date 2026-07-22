@@ -109,6 +109,7 @@ Happy Coding! 🚀
 | [0130-surrounded-regions](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0204-count-primes) |
@@ -140,6 +141,7 @@ Happy Coding! 🚀
 | [0036-valid-sudoku](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
@@ -157,6 +159,7 @@ Happy Coding! 🚀
 | [0076-minimum-window-substring](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -298,6 +301,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Union-Find
 |  |
@@ -354,4 +358,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0149-max-points-on-a-line) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
