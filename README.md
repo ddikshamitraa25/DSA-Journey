@@ -106,6 +106,7 @@ Happy Coding! 🚀
 | [0036-valid-sudoku](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0057-insert-interval) |
+| [0120-triangle](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0137-single-number-ii) |
@@ -361,6 +362,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0139-word-break) |
 ## Memoization
 |  |
