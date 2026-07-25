@@ -118,6 +118,7 @@ Happy Coding! 🚀
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0204-count-primes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0289-game-of-life) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -242,6 +243,7 @@ Happy Coding! 🚀
 | [0054-spiral-matrix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0289-game-of-life) |
 | [0909-snakes-and-ladders](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0909-snakes-and-ladders) |
 ## Simulation
@@ -373,6 +375,7 @@ Happy Coding! 🚀
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0221-maximal-square) |
 ## Memoization
 |  |
 | ------- |
