@@ -126,6 +126,7 @@ Happy Coding! 🚀
 | [0909-snakes-and-ladders](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0909-snakes-and-ladders) |
 | [0997-find-the-town-judge](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1250-check-if-it-is-a-good-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
@@ -356,6 +357,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -386,4 +388,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
