@@ -157,6 +157,7 @@ Happy Coding! 🚀
 | [0433-minimum-genetic-mutation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0433-minimum-genetic-mutation) |
 | [0997-find-the-town-judge](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Happy Coding! 🚀
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
@@ -259,6 +261,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0383-ransom-note) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -367,6 +370,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1328-break-a-palindrome](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1328-break-a-palindrome) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -390,6 +394,7 @@ Happy Coding! 🚀
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
