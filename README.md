@@ -122,6 +122,7 @@ Happy Coding! 🚀
 | [0228-summary-ranges](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0289-game-of-life) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0486-predict-the-winner](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-snakes-and-ladders](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0909-snakes-and-ladders) |
 | [0997-find-the-town-judge](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0997-find-the-town-judge) |
@@ -348,6 +349,7 @@ Happy Coding! 🚀
 | [0069-sqrtx](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0204-count-primes) |
+| [0486-predict-the-winner](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -385,6 +387,7 @@ Happy Coding! 🚀
 | [0139-word-break](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0221-maximal-square) |
+| [0486-predict-the-winner](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
 | ------- |
@@ -400,4 +403,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
