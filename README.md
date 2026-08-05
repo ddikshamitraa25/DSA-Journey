@@ -225,6 +225,7 @@ Happy Coding! 🚀
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -275,6 +276,7 @@ Happy Coding! 🚀
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0909-snakes-and-ladders) |
+| [3310-remove-methods-from-project](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -328,6 +330,7 @@ Happy Coding! 🚀
 | [0210-course-schedule-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0210-course-schedule-ii) |
 | [0997-find-the-town-judge](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1791-find-center-of-star-graph) |
+| [3310-remove-methods-from-project](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
