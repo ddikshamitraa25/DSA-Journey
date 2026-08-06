@@ -357,6 +357,7 @@ Happy Coding! 🚀
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1250-check-if-it-is-a-good-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -371,6 +372,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
 | ------- |
