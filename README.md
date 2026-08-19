@@ -127,6 +127,7 @@ Happy Coding! 🚀
 | [0909-snakes-and-ladders](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0909-snakes-and-ladders) |
 | [0997-find-the-town-judge](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1250-check-if-it-is-a-good-array) |
+| [1386-cinema-seat-allocation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -159,6 +160,7 @@ Happy Coding! 🚀
 | [0433-minimum-genetic-mutation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0433-minimum-genetic-mutation) |
 | [0997-find-the-town-judge](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
@@ -308,6 +310,7 @@ Happy Coding! 🚀
 | [0461-hamming-distance](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0476-number-complement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1386-cinema-seat-allocation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 ## Stack
 |  |
 | ------- |
@@ -379,6 +382,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1328-break-a-palindrome](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1328-break-a-palindrome) |
+| [1386-cinema-seat-allocation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Geometry
 |  |
