@@ -130,6 +130,7 @@ Happy Coding! 🚀
 | [1386-cinema-seat-allocation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -263,6 +264,7 @@ Happy Coding! 🚀
 | [0054-spiral-matrix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0289-game-of-life) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Counting
 |  |
 | ------- |
