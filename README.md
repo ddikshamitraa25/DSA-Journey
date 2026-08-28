@@ -102,6 +102,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0036-valid-sudoku) |
@@ -155,6 +156,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0127-word-ladder) |
