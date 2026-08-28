@@ -130,6 +130,7 @@ Happy Coding! 🚀
 | [1250-check-if-it-is-a-good-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1250-check-if-it-is-a-good-array) |
 | [1386-cinema-seat-allocation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -441,4 +442,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0486-predict-the-winner) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
