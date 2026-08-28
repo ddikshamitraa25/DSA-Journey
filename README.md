@@ -144,6 +144,7 @@ Happy Coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,6 +201,7 @@ Happy Coding! 🚀
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -391,6 +393,7 @@ Happy Coding! 🚀
 | [0204-count-primes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
