@@ -133,6 +133,7 @@ Happy Coding! 🚀
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -406,6 +407,7 @@ Happy Coding! 🚀
 | [1328-break-a-palindrome](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1328-break-a-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Geometry
