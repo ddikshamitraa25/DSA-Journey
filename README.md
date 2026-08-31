@@ -316,6 +316,7 @@ Happy Coding! 🚀
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Bit Manipulation
 |  |
 | ------- |
