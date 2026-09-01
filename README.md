@@ -138,6 +138,7 @@ Happy Coding! 🚀
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -174,6 +175,7 @@ Happy Coding! 🚀
 | [1386-cinema-seat-allocation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -274,6 +276,7 @@ Happy Coding! 🚀
 | [0221-maximal-square](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0289-game-of-life) |
 | [0909-snakes-and-ladders](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0909-snakes-and-ladders) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -300,6 +303,7 @@ Happy Coding! 🚀
 | [0637-average-of-levels-in-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0909-snakes-and-ladders) |
 | [3310-remove-methods-from-project](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -331,6 +335,7 @@ Happy Coding! 🚀
 | [0476-number-complement](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0476-number-complement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1386-cinema-seat-allocation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
 | ------- |
