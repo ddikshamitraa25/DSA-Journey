@@ -122,6 +122,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0289-game-of-life) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0486-predict-the-winner](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0486-predict-the-winner) |
@@ -148,6 +149,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -157,6 +159,7 @@ Happy Coding! 🚀
 | [0069-sqrtx](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -332,6 +335,7 @@ Happy Coding! 🚀
 | [0191-number-of-1-bits](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0476-number-complement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -461,4 +465,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
