@@ -205,6 +205,7 @@ Happy Coding! 🚀
 | [0433-minimum-genetic-mutation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0434-number-of-segments-in-a-string) |
 | [0796-rotate-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1328-break-a-palindrome](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1328-break-a-palindrome) |
@@ -441,6 +442,7 @@ Happy Coding! 🚀
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0940-distinct-subsequences-ii) |
 ## Memoization
 |  |
 | ------- |
