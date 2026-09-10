@@ -242,6 +242,7 @@ Happy Coding! 🚀
 | [0637-average-of-levels-in-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -256,6 +257,7 @@ Happy Coding! 🚀
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -274,6 +276,7 @@ Happy Coding! 🚀
 | [0637-average-of-levels-in-binary-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
 | ------- |
