@@ -138,6 +138,7 @@ Happy Coding! 🚀
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -164,6 +165,7 @@ Happy Coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -451,6 +453,7 @@ Happy Coding! 🚀
 | [0221-maximal-square](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
@@ -462,6 +465,7 @@ Happy Coding! 🚀
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
