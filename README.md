@@ -404,6 +404,7 @@ Happy Coding! 🚀
 | [0486-predict-the-winner](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1250-check-if-it-is-a-good-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -443,6 +444,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0149-max-points-on-a-line) |
+| [0836-rectangle-overlap](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0836-rectangle-overlap) |
 ## Dynamic Programming
 |  |
 | ------- |
