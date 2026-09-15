@@ -158,6 +158,7 @@ Happy Coding! 🚀
 | [0287-find-the-duplicate-number](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
@@ -217,6 +218,7 @@ Happy Coding! 🚀
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -438,6 +440,7 @@ Happy Coding! 🚀
 | [1386-cinema-seat-allocation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Geometry
@@ -457,6 +460,7 @@ Happy Coding! 🚀
 | [0221-maximal-square](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
