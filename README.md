@@ -213,6 +213,7 @@ Happy Coding! 🚀
 | [0383-ransom-note](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0434-number-of-segments-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -365,6 +366,7 @@ Happy Coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## String Matching
@@ -443,6 +445,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1328-break-a-palindrome](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1328-break-a-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -468,6 +471,7 @@ Happy Coding! 🚀
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -517,6 +521,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Backtracking
 |  |
