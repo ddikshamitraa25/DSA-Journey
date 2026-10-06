@@ -216,6 +216,7 @@ Happy Coding! 🚀
 | [0678-valid-parenthesis-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -369,6 +370,7 @@ Happy Coding! 🚀
 | [0032-longest-valid-parentheses](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## String Matching
@@ -448,6 +450,7 @@ Happy Coding! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1328-break-a-palindrome](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1328-break-a-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -525,6 +528,7 @@ Happy Coding! 🚀
 | [0032-longest-valid-parentheses](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Backtracking
 |  |
