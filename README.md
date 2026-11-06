@@ -138,6 +138,7 @@ Happy Coding! 🚀
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2747-count-zero-request-servers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -188,6 +189,7 @@ Happy Coding! 🚀
 | [0997-find-the-town-judge](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
+| [2747-count-zero-request-servers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
@@ -242,6 +244,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2747-count-zero-request-servers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Tree
 |  |
@@ -495,6 +498,7 @@ Happy Coding! 🚀
 | [0628-maximum-product-of-three-numbers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2747-count-zero-request-servers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
