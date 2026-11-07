@@ -136,6 +136,7 @@ Happy Coding! 🚀
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1882-process-tasks-using-servers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1882-process-tasks-using-servers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2747-count-zero-request-servers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/2747-count-zero-request-servers) |
@@ -445,6 +446,7 @@ Happy Coding! 🚀
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/ddikshamitraa25/DSA-Journey/tree/master/1882-process-tasks-using-servers) |
 ## Enumeration
 |  |
 | ------- |
